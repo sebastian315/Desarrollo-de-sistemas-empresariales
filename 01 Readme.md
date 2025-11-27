@@ -1,3 +1,8 @@
+Integrantes:
+Jhon Edward Ospina
+Sebastián García
+Diego Naranjo
+
 # Helpdesk TI Socobuses – Entregables Taller:
 
 Este repositorio contiene los diagramas solicitados (puntos 2 a 5).  
@@ -23,3 +28,5 @@ El punto 1 (Excel) se omite por acuerdo.
 - Seguridad: Sesiones seguras, CSRF, XSS, caducidad de clave 30 días, bitácora de login.
 - DB: MySQL con repositorios PDO y placeholders.
 - Frontend: Bootstrap 5 + JS (AJAX). Dashboards con métricas SLA y satisfacción.
+
+
